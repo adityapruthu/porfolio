@@ -27,7 +27,7 @@ const About = () => {
                     </Grid.Col>
 
                     <Grid.Col sm={4} md={3} lg={2} className="center-mobile">
-                        <Image src={require('../Images/API-flat-illustration.webp')} alt={'API'} style={{ width: '100%', maxWidth: 300 }} />
+                        <Image src={require('../Images/API-flat-illustration.png')} alt={'API'} style={{ width: '100%', maxWidth: 300 }} />
                     </Grid.Col>
 
                 </Grid>

@@ -15,13 +15,13 @@ const About = () => {
                                     query="(max-width: 1200px)"
                                     styles={{ fontSize: '3.5rem !important' }}
                                 >
-                                    <h1 className="title">A simple portfolio template</h1>
+                                    <h1 className="title">Software Craftmenship</h1>
                                 </MediaQuery>
                             </Text>
                         </div>
                         <div style={{ marginBottom: 25 }}>
                             <Text size="xl" color="black">
-                                Simple showcase of this powerful and well implemented library called <Anchor href="https://mantine.dev/" target="_blank">Mantine</Anchor>.
+                                    Contact me for a quick and robust backend system API driven implementation!
                             </Text>
                         </div>
                     </Grid.Col>
